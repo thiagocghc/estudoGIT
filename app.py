@@ -16,3 +16,9 @@ print(z)
 #atualizando o arquivo na MASTER
 #atualizando o arquivo na BRANCH DO NATHANNN
 
+for item in arr:
+    for data in item:
+        print(data)
+
+
+#git master
