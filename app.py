@@ -16,3 +16,5 @@ print(z)
 #atualizando o arquivo na MASTER
 #atualizando o arquivo na BRANCH DO NATHANNN
 
+for item in arr:
+    print(item)
