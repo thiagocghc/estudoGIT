@@ -17,8 +17,13 @@ print(z)
 #atualizando o arquivo na BRANCH DO NATHANNN
 
 for item in arr:
+<<<<<<< HEAD
     for data in item:
         print(data)
 
 
 #git master
+=======
+    print(item)
+>>>>>>> branch-do-jose
+#Diferença do arquivo - new comment
